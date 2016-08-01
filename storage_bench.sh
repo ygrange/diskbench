@@ -30,6 +30,7 @@ done
 
 # Going to use some stuff from Tomi Salminen:
 # https://github.com/tlsalmin/vlbi-streamer/blob/master/scripts/test_volumespeeds
+# MIT licensing of that code can b assumed: https://github.com/tlsalmin/vlbi-streamer/issues/33
 
 CONVFLAGS=fdatasync
 FLAGS=direct
